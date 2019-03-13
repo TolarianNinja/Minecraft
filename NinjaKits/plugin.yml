@@ -1,0 +1,8 @@
+name: NinjaKits
+main: me.thecodeninja.ninjakits.NinjaKits
+version: 0.6
+
+commands:
+   kit:
+      description: This gives the player an item or items that they have crafted or bought.
+      usage: /kit help for a list of all kit commands and usages.
