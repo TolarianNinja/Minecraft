@@ -1,0 +1,8 @@
+name: Afk
+main: com.gmail.thecarninja6.afk.Afk
+version: 0.1
+
+commands:
+   afk:
+      description: This sets the player as away from keyboard and disables mob attacks/damage.
+      usage: Type /afk to be set afk without a reason. /afk with a reason will display the reason.
