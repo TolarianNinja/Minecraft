@@ -1,0 +1,8 @@
+name: PlayerInfo
+main: me.thecodeninja.playerinfo.PlayerInfo
+version: 0.1
+
+commands:
+   pinfo:
+      description: This displays various info about the target.
+      usage: /pinfo [player] will display info about the target.
